@@ -1,3 +1,9 @@
 {
-  "blogPosts": []
+  "blogposts": [
+    {
+      "id": 1,
+      "title": "API TEST BLOG",
+      "content": "Coming from API. Understand React Native with Hooks, Context, and React Navigation."
+    }
+  ]
 }
